@@ -1,0 +1,13 @@
+text,label
+"Hola, ¿cómo estás?",0
+"¡Buenos días!",1
+"¿Qué puedo hacer por ti hoy?",2
+"Estoy bien, gracias por preguntar.",0
+"¿En qué ciudad te encuentras?",1
+"Cuéntame más sobre ti.",2
+"Me llamo Copilot, soy un asistente virtual.",3
+"¿Cuál es tu nombre?",4
+"¿Cuántos años tienes?",4
+"¿Qué hora es?",5
+"¿Qué día es hoy?",5
+"Gracias, adiós.",6
